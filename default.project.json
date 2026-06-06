@@ -1,0 +1,15 @@
+{
+  "name": "Subscription",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Packages": {
+        "$className": "Folder",
+        "Subscription": {
+          "$path": "src"
+        }
+      }
+    }
+  }
+}
